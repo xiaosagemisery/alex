@@ -1,2 +1,2 @@
 # alex
-alex's way to AI expert
+alex's way to Automation expert
